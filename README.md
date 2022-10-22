@@ -1,1 +1,9 @@
-# Odd_or_Even_Repo
+// =================== ODD OR EVEN _ GITHUB ====================== //
+
+Name:
+
+Date:
+
+Peer reviewer:
+
+Peer Comment:
