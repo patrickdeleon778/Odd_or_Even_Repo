@@ -1,9 +1,11 @@
 // =================== ODD OR EVEN _ GITHUB ====================== //
 
-Name:
+Name: Patrick De Leon
 
-Date:
+Date: 10/25/22
 
 Peer reviewer: Mauricio Zavala
 
 Peer Comment: Everything excellent
+
+//======DONE======//
