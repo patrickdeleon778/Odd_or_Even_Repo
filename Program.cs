@@ -1,4 +1,6 @@
-﻿int num; // create a variable named num
+﻿
+
+int num; // create a variable named num
 
 bool isNum;
 bool playAgain = true; // created a play again boolean setting it to true

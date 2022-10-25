@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\bin\Debug\net6.0\Odd_or_Even_Repo.exe
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\bin\Debug\net6.0\Odd_or_Even_Repo.deps.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\bin\Debug\net6.0\Odd_or_Even_Repo.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\bin\Debug\net6.0\Odd_or_Even_Repo.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\bin\Debug\net6.0\Odd_or_Even_Repo.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\refint\Odd_or_Even_Repo.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\Odd_or_Even_Repo.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HWReviewClassMates\PatrickReview\Odd_or_Even_Repo\obj\Debug\net6.0\ref\Odd_or_Even_Repo.dll
